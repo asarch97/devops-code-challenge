@@ -19,3 +19,7 @@ I have put things in place for CI/CD on the react component. Built my code pipel
 Made one simple change to frontend/src/App.js - the fetching message that appears at the beginning. It goes by so quick that its hard to see, but it is there. You can make another change that is more visible. The build and deploy process is taking about 10 to 15 minutes.
 
  
+
+An additional deployment on Kubernettes
+Deployed the backend on Google Kubernettes Engine. 
+The endpoint is:  34.94.218.191:8080 
